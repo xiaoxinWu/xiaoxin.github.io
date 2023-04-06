@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      代码随想录DAY1
+subtitle:   leetcode刷题笔记
+date:       2023-04-05
+author:     xiaoxin
+header-img: img/post-bg-debug.png
+catalog: true
+tags:
+    - 代码随想录
+    - leetcode
+---
+
 > Task: 数组理论基础，704. 二分查找，27. 移除元素
 
 - [x] 数组理论基础

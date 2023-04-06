@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      代码随想录DAY2
+subtitle:   leetcode刷题笔记
+date:       2023-04-06
+author:     xiaoxin
+header-img: img/post-bg-debug.png
+catalog: true
+tags:
+    - 代码随想录
+    - leetcode
+---
+
 > Task：977.有序数组的平方 ，209.长度最小的子数组 ，59.螺旋矩阵II ，数组总结
 
 - [x] 977.有序数组的平方
